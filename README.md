@@ -80,6 +80,7 @@ assuming the same data schema as described in the configuration files.
 
 ## Dir Structure
 
+```bash
 ./IANSP
 |   .gitattributes
 |   README.md
@@ -151,7 +152,7 @@ assuming the same data schema as described in the configuration files.
                     curves_rr_acc@1.png
                     curves_rr_acc@10.png
                     curves_rr_acc@5.png
-
+```
 ---
 
 ## pipeline
